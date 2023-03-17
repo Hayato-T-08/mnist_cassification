@@ -78,6 +78,9 @@ class Scribble:
         window.title("mnist classification")
         self.canvas = tkinter.Canvas(window, bg = "white", width = 300, height = 300)
         self.canvas.pack()
+        
+        self.introducion=tkinter.Label(window,text='Please write the numbers 0 to 9.')
+        self.introducion.pack()
 
         self.text=None
 
