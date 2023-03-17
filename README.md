@@ -9,7 +9,7 @@
 
 tensorflow,os,tkinter,numpy,PIL
 
-##起動の仕方
+## 起動の仕方
 
 app.pyを実行してください
 
