@@ -35,3 +35,8 @@ pred_mypic.py 画像から数字を識別するテストコードです。
 
 mnist_weight.hdf5 重みを保存したファイルです。
 
+## 参考文献
+https://qiita.com/dolce_itf/items/be85244a31654d1d56ef
+https://www.idnet.co.jp/column/page_245.html
+https://www.nslabs.jp/monkey-python-02b.rhtml#s10
+
