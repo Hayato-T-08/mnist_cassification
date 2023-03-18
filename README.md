@@ -23,9 +23,9 @@ macはhomebrew,windowsは"https://ghostscript.com/releases/gsdnld.html"
 
 ## 起動の仕方
 
-ターミナルでcd codeを実行した後python app.pyを実行
+ターミナルでcd codeを実行した後python mnist_classifierを実行
 
-app.pyを実行してください
+mnist_classifierを実行
 
 ## 操作方法
 
