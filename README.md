@@ -17,7 +17,9 @@ pipでインストールしてください。
 
 ghostscript
 
-macはhomebrew,windowsは"https://ghostscript.com/releases/gsdnld.html"からダウンロードした後に環境変数にパスを追加してください
+macはhomebrew,windowsは"https://ghostscript.com/releases/gsdnld.html"
+
+からダウンロードした後に環境変数にパスを追加してください
 
 ## 起動の仕方
 
