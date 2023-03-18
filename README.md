@@ -9,6 +9,16 @@
 
 tensorflow,os,tkinter,numpy,PIL
 
+pipでインストールしてください。
+
+例 pip install tensorflow
+
+# 必要なソフト
+
+ghostscript
+
+macはhomebrew,windowsは"https://ghostscript.com/releases/gsdnld.html"からダウンロードした後に環境変数にパスを追加してください
+
 ## 起動の仕方
 
 app.pyを実行してください
