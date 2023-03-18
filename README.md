@@ -23,6 +23,8 @@ macはhomebrew,windowsは"https://ghostscript.com/releases/gsdnld.html"
 
 ## 起動の仕方
 
+ターミナルでcd codeを実行した後python app.pyを実行
+
 app.pyを実行してください
 
 ## 操作方法
