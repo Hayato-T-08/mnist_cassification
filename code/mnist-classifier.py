@@ -32,20 +32,17 @@ class Scribble:
 
     
     def change_mode(self):
-        #「ペン」ボタンが押されたとき
+        
         if self.write_button['state'] == tkinter.NORMAL:
-            # 各ボタンの状態を変更
             self.write_button['state'] = tkinter.DISABLED
             self.erase_button['state'] = tkinter.NORMAL
-            #初期値もしくは、ユーザーが選択した色にする
             self.color.set("black") 
 
-            #「消しゴム」ボタンが押されたとき
+           
         else:
-            # 各ボタンの状態を変更
+            
             self.write_button['state'] = tkinter.NORMAL
             self.erase_button['state'] = tkinter.DISABLED
-            #線の色を白色にする
             self.color.set('white')
  
     def save_image(self):
